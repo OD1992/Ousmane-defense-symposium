@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <body>
+
         <h1>Mathematical and Statistical Modelling of Infectious Diseases: COVID-19 and Malaria</h1>
         <br>Mini-symposium and PhD defense of Ousmane Diao
     
@@ -32,5 +30,4 @@
 </p>
 
 
-</body>
-</html>
+
