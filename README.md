@@ -21,6 +21,14 @@
 
 ---
 <h1>Abstracts</h1>
+>Mouhamadou Diallo, professor, Université Cheikh Anta Diop de Dakar, Sénégal
+>Title:
+
+>Ramsès Djidjou-Demasse, Professor, IRD, France
+>Title:
+
+>Raphaël Forien, Professor, INRAE, France
+>Title:
 >
 ---
 
