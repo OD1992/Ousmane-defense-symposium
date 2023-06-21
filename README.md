@@ -1,12 +1,8 @@
+```ruby
 <h1>Mathematical and Statistical Modelling of Infectious Diseases: COVID-19 and Malaria</h1>
 <h2>Mini-symposium and PhD defense of Ousmane Diao</h2>
 <br>June 29 and 30, 2023 
 <br>Auditorium A.002, Department of Mathematical Engineering (INMA), UCLouvain, Louvain-la-Neuve
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
 ```
 ---
 <h1>Program</h1>
