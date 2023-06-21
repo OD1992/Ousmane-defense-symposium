@@ -15,7 +15,7 @@ April 29
 
 ---
 <h1>Organizers / contact</h1>
->  Ousmane Diao
+Ousmane Diao
 <br>Pierre-Antoine Absil
 ---
 
