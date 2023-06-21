@@ -30,9 +30,8 @@ Raphaël Forien, Professor, INRAE, France
 
 ---
 <h1><span style="color:magenta">Organizers / contact</span></h1>
-Ousmane Diao
-<br>Pierre-Antoine Absil
-
+<a href='https://perso.uclouvain.be/ousmane.diao/'>Ousmane Diao</a>
+<br><a href='https://sites.uclouvain.be/absil/'>Pierre-Antoine Absil</a>
 
 
 
