@@ -18,13 +18,13 @@
 ---
 <h1><span style="color:#8db600">Abstracts</span></h1>
 
-<span style="color:#b2beb5">Mouhamadou Diallo</span>, professor, Université Cheikh Anta Diop de Dakar, Sénégal
+<span style="color:#008000">Mouhamadou Diallo</span>, professor, Université Cheikh Anta Diop de Dakar, Sénégal
 <br>Title:
 
-<span style="color:#b2beb5">Ramsès Djidjou-Demasse</span>, Professor, IRD, France
+<span style="color:#008000">Ramsès Djidjou-Demasse</span>, Professor, IRD, France
 <br>Title:
 
-<span style="color:#b2beb5">Raphaël Forien</span>, Professor, INRAE, France
+<span style="color:#008000">Raphaël Forien</span>, Professor, INRAE, France
 <br>Title:
 
 
