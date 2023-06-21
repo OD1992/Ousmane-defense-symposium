@@ -12,13 +12,9 @@ June 29
 <br>June 30
 <br>------09:00 am to 1:00 pm Raphaël Forien
 <br>------2:30 to 3:30 pm Raphaël Forien
+```
+
 ---
-```ruby
-<h1>Organizers / contact</h1>
-Ousmane Diao
-<br>Pierre-Antoine Absil
----
-```ruby
 <h1>Abstracts</h1>
 
 Mouhamadou Diallo, professor, Université Cheikh Anta Diop de Dakar, Sénégal
@@ -29,6 +25,12 @@ Ramsès Djidjou-Demasse, Professor, IRD, France
 
 Raphaël Forien, Professor, INRAE, France
 <br>Title:
+
+
+---
+<h1>Organizers / contact</h1>
+Ousmane Diao
+<br>Pierre-Antoine Absil
 
 
 
