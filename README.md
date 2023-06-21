@@ -9,7 +9,6 @@ title:  "Mathematical and Statistical Modelling of Infectious Diseases: COVID-19
 >Auditorium A.002, Department of Mathematical Engineering (INMA), UCLouvain, Louvain-la-Neuve
 
 ---
-layout: post
 title:  "Program"
 ---
 >April 29
@@ -20,7 +19,6 @@ title:  "Program"
 >------2.30 to 3.30 pm Raphaël Forien
 
 ---
-layout: post
 title:  "Organizers / contact"
 ---
 >Ousmane Diao
@@ -28,7 +26,6 @@ title:  "Organizers / contact"
 
 
 ---
-layout: post
 title:  "Abstracts"
 ---
 
