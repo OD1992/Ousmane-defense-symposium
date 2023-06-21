@@ -12,13 +12,11 @@ April 29
 <br>April 30
 <br>------09:00 am to 1:00 pm Raphaël Forien
 <br>------2:30 to 3:30 pm Raphaël Forien
----
 
 ---
 <h1>Organizers / contact</h1>
 Ousmane Diao
 <br>Pierre-Antoine Absil
----
 
 ---
 <h1>Abstracts</h1>
@@ -32,7 +30,6 @@ Ramsès Djidjou-Demasse, Professor, IRD, France
 Raphaël Forien, Professor, INRAE, France
 <br>Title:
 
----
 
 
 
