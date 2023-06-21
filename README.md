@@ -2,12 +2,15 @@
 <html>
 <body>
 <p>
-<h1><center> Mathematical and Statistical Modelling of Infectious Diseases: COVID-19 and Malaria</center></h1>
-<h2><br><center>Mini-symposium and PhD defense of Ousmane Diao</center></h2>
+<center>
+<h1> Mathematical and Statistical Modelling of Infectious Diseases: COVID-19 and Malaria</h1>
+<br><h2>Mini-symposium and PhD defense of Ousmane Diao</h2>
 
-<br><center>April 29, 2023 from 2.30 to 4.30 pm</center>
-<br><center>April 30, 2023 from 2.30 to 3.30 pm</center>
-<br><center>Auditorium A.002, Department of Mathematical Engineering (INMA), UCLouvain, Louvain-la-Neuve</center> </<p>>
+<br>April 29, 2023 from 2.30 to 4.30 pm
+<br>April 30, 2023 from 2.30 to 3.30 pm
+<br>Auditorium A.002, Department of Mathematical Engineering (INMA), UCLouvain, Louvain-la-Neuve
+</center>
+</p>
 
 
 
