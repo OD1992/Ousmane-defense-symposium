@@ -7,11 +7,11 @@
 
 ---
 <h1>Program</h1>
-*April 29
-  *------2.30 to 3.30 pm Mouhamadou Diallo
-  *------3.30 to 4.30 pm Ramsès Djidjou-Demasse
-*April 30
-  *------2.30 to 3.30 pm Raphaël Forien
+* April 29
+  * ------2.30 to 3.30 pm Mouhamadou Diallo
+  * ------3.30 to 4.30 pm Ramsès Djidjou-Demasse
+* April 30
+  * ------2.30 to 3.30 pm Raphaël Forien
 
 ---
 <h1>Organizers / contact</h1>
