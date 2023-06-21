@@ -11,7 +11,7 @@
 <br>------2:30 to 3:30 pm Mouhamadou Diallo
 <br>------3:30 to 4:30 pm Ramsès Djidjou-Demasse
 <br>June 30
-<br>------09:00 am to 1:00 pm Raphaël Forien
+<br>------09:00 am to 1:00 pm Ousmane Diao (PhD Private Defense)
 <br>------2:30 to 3:30 pm Raphaël Forien
 
 
