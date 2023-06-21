@@ -1,27 +1,36 @@
-```
-<h1>Mathematical and Statistical Modelling of Infectious Diseases: COVID-19 and Malaria</h1>
-<h2>Mini-symposium and PhD defense of Ousmane Diao</h2>
+---
+layout: post
+title:  "Mathematical and Statistical Modelling of Infectious Diseases: COVID-19 and Malaria"
+---
+>Mini-symposium and PhD defense of Ousmane Diao</h2>
 
-<br>April 29, 2023 from 2.30 to 4.30 pm
-<br>April 30, 2023 from 2.30 to 3.30 pm
-<br>Auditorium A.002, Department of Mathematical Engineering (INMA), UCLouvain, Louvain-la-Neuve
-```
-```
-<h1> Program </h1>
-<br>April 29
-<br>2.00 - 3.30 pm : Mini-symposium
-<br>------2.30 to 3.30 pm Mouhamadou Diallo
-<br>------3.30 to 4.30 pm Ramsès Djidjou-Demasse
-<br>April 30
-<br>------2.30 to 3.30 pm Raphaël Forien
-```
-```
-<h1> Organizers / contact </h1>
-<br>Ousmane Diao
-<br>Pierre-Antoine Absil
-```
-```
-<h1>Abstracts </h1>
-```
+>April 29, 2023 from 2.30 to 4.30 pm
+>April 30, 2023 from 2.30 to 3.30 pm
+>Auditorium A.002, Department of Mathematical Engineering (INMA), UCLouvain, Louvain-la-Neuve
+
+---
+layout: post
+title:  "Program"
+---
+>April 29
+>2.00 - 3.30 pm : Mini-symposium
+>------2.30 to 3.30 pm Mouhamadou Diallo
+>------3.30 to 4.30 pm Ramsès Djidjou-Demasse
+>April 30
+>------2.30 to 3.30 pm Raphaël Forien
+
+---
+layout: post
+title:  "Organizers / contact"
+---
+>Ousmane Diao
+>Pierre-Antoine Absil
+
+
+---
+layout: post
+title:  "Abstracts"
+---
+
 
 
