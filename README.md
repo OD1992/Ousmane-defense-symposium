@@ -6,7 +6,7 @@
 </div>
 
 ---
-<h1><span style="color:magenta">Program</span></h1>
+<h1><span style="color:#8db600">Program</span></h1>
 <br>June 29
 <br>------2:30 to 3:30 pm Mouhamadou Diallo
 <br>------3:30 to 4:30 pm Ramsès Djidjou-Demasse
@@ -16,20 +16,20 @@
 
 
 ---
-<h1><span style="color:magenta">Abstracts</span></h1>
+<h1><span style="color:#8db600">Abstracts</span></h1>
 
-Mouhamadou Diallo, professor, Université Cheikh Anta Diop de Dakar, Sénégal
+<span style="color:#b2beb5">Mouhamadou Diallo</span>, professor, Université Cheikh Anta Diop de Dakar, Sénégal
 <br>Title:
 
-Ramsès Djidjou-Demasse, Professor, IRD, France
+<span style="color:#b2beb5">Ramsès Djidjou-Demasse</span>, Professor, IRD, France
 <br>Title:
 
-Raphaël Forien, Professor, INRAE, France
+<span style="color:#b2beb5">Raphaël Forien</span>, Professor, INRAE, France
 <br>Title:
 
 
 ---
-<h1><span style="color:magenta">Organizers / contact</span></h1>
+<h1><span style="color:#8db600">Organizers / contact</span></h1>
 <a href='https://perso.uclouvain.be/ousmane.diao/'>Ousmane Diao</a>
 <br><a href='https://sites.uclouvain.be/absil/'>Pierre-Antoine Absil</a>
 
