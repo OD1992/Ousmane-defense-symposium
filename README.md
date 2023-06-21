@@ -1,10 +1,10 @@
-<h1><span style="color:red">Mathematical and Statistical Modelling of Infectious Diseases: COVID-19 and Malaria.</span></h1>
-<br><h2>Mini-symposium and PhD defense of Ousmane Diao</h2>
+<h1><span style="color:magenta">Mathematical and Statistical Modelling of Infectious Diseases: COVID-19 and Malaria.</span></h1>
+<h2>Mini-symposium and PhD defense of Ousmane Diao</h2>
 <br>June 29 and 30, 2023 
 <br>Auditorium A.002, Department of Mathematical Engineering (INMA), UCLouvain, Louvain-la-Neuve
 
 ---
-<h1>Program</h1>
+<h1><span style="color:magenta">Program</span></h1>
 <br>June 29
 <br>------2:30 to 3:30 pm Mouhamadou Diallo
 <br>------3:30 to 4:30 pm Ramsès Djidjou-Demasse
@@ -14,7 +14,7 @@
 
 
 ---
-<h1>Abstracts</h1>
+<h1><span style="color:magenta">Abstracts</span></h1>
 
 Mouhamadou Diallo, professor, Université Cheikh Anta Diop de Dakar, Sénégal
 <br>Title:
@@ -27,7 +27,7 @@ Raphaël Forien, Professor, INRAE, France
 
 
 ---
-<h1>Organizers / contact</h1>
+<h1><span style="color:magenta">Organizers / contact</span></h1>
 Ousmane Diao
 <br>Pierre-Antoine Absil
 
