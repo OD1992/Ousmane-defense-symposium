@@ -36,3 +36,4 @@
 
 
 
+<p align="right">&copy; Copyleft Ousmane Diao 2023.</p>
