@@ -22,7 +22,8 @@
 <br>Title:
 
 <span style="color:#008000">Ramsès Djidjou-Demasse</span>, Professor, IRD, France
-<br>Title:
+<br>Title:Structured models and applications in population dynamics
+
 
 <span style="color:#008000">Raphaël Forien</span>, Professor, INRAE, France
 <br>Title:Non-Markovian stochastic epidemic models with progressive loss of immunity
