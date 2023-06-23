@@ -27,9 +27,7 @@
 
 <span style="color:#008000">Raphaël Forien</span>, Professor, INRAE, France
 <br>Title: Non-Markovian stochastic epidemic models with progressive loss of immunity
-<p align="justify">
-<br>I will present a joint work with Guodong Pang, Étienne Pardoux and Arsène Brice Zotsa Ngoufack on stochastic epidemic models in which infected individuals progressively loose their immunity according to an arbitrary random function of the time elapsed since their infection. I will present a result on the large population limit of the model, which converges to a deterministic system described by a non-linear Volterra equation, and present some partial results on the long-time behaviour of this deterministic system.
-</p>
+<p align="justify">I will present a joint work with Guodong Pang, Étienne Pardoux and Arsène Brice Zotsa Ngoufack on stochastic epidemic models in which infected individuals progressively loose their immunity according to an arbitrary random function of the time elapsed since their infection. I will present a result on the large population limit of the model, which converges to a deterministic system described by a non-linear Volterra equation, and present some partial results on the long-time behaviour of this deterministic system.</p>
 
 ---
 <h1><span style="color:#8db600">Organizers / contact</span></h1>
