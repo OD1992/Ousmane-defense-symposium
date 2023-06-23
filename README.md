@@ -32,7 +32,7 @@
 
 ---
 <h1><span style="color:#8db600">Organizers / contact</span></h1>
-<a href='https://perso.uclouvain.be/ousmane.diao/'>Ousmane Diao</a>
+<a href='https://od1992.github.io/ODIAO/'>Ousmane Diao</a>
 <br><a href='https://sites.uclouvain.be/absil/'>Pierre-Antoine Absil</a>
 
 
