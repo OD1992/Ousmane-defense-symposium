@@ -19,7 +19,7 @@
 <h1><span style="color:#8db600">Abstracts</span></h1>
 
 <span style="color:#008000">Mouhamadou Diallo</span>, professor, Université Cheikh Anta Diop de Dakar, Sénégal
-<br>Title: Diabetic foot
+<br>Title: A crossroads of diabetes complications in Senegal-Diabetic foot
 
 <span style="color:#008000">Ramsès Djidjou-Demasse</span>, Professor, IRD, France
 <br>Title: Structured models and applications in population dynamics
