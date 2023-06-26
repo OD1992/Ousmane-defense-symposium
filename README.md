@@ -1,9 +1,9 @@
 
 <div align="center">
   <h1><span style="color:#8db600">Mathematical and Statistical Modelling of Infectious Diseases: COVID-19 and Malaria.</span></h1>
-  <h2>Mini-symposium and PhD defense of Ousmane Diao</h2>
+  <h2>Mini-symposium on the occasion of the private PhD defense of Ousmane Diao</h2>
   <br>June 29 and 30, 2023 
-  <br>Auditorium A.002, Department of Mathematical Engineering (INMA), UCLouvain, Louvain-la-Neuve
+  <br>Auditorium A.002, Euler building, UCLouvain, Louvain-la-Neuve
 </div>
 
 ---
@@ -12,7 +12,6 @@
 <br>------2:30 to 3:30 pm Mouhamadou Diallo
 <br>------3:30 to 4:30 pm Ramsès Djidjou-Demasse
 <br>June 30
-<br>------09:00 am to 1:00 pm Ousmane Diao (PhD Private Defense)
 <br>------2:30 to 3:30 pm Raphaël Forien
 
 
@@ -20,7 +19,7 @@
 <h1><span style="color:#8db600">Abstracts</span></h1>
 
 <span style="color:#008000">Mouhamadou Diallo</span>, professor, Université Cheikh Anta Diop de Dakar, Sénégal
-<br>Title: A crossroads of diabetes complications in Senegal-Diabetic foot
+<br>Title: Un carrefour des complications du diabète au Sénégal - le pied diabétique
 
 <span style="color:#008000">Ramsès Djidjou-Demasse</span>, Professor, IRD, France
 <br>Title: Structured models and applications in population dynamics
