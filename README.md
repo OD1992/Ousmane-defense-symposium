@@ -18,8 +18,8 @@
 ---
 <h1><span style="color:#8db600">Abstracts</span></h1>
 
-<span style="color:#008000">Mouhamadou Diallo</span>, professor, Université Cheikh Anta Diop de Dakar, Sénégal
-<br>Title: Un carrefour des complications du diabète au Sénégal - le pied diabétique
+#<span style="color:#008000">Mouhamadou Diallo</span>, professor, Université Cheikh Anta Diop de Dakar, Sénégal
+#<br>Title: Un carrefour des complications du diabète au Sénégal - le pied diabétique
 
 <span style="color:#008000">Ramsès Djidjou-Demasse</span>, Professor, IRD, France
 <br>Title: Structured models and applications in population dynamics
