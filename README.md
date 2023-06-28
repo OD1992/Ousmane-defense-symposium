@@ -9,7 +9,7 @@
 ---
 <h1><span style="color:#8db600">Program</span></h1>
 <br>June 29
-[//]: #<br>------2:30 to 3:30 pm Mouhamadou Diallo
+<!---<br>------2:30 to 3:30 pm Mouhamadou Diallo-->
 <br>------3:30 to 4:30 pm Ramsès Djidjou-Demasse
 <br>June 30
 <br>------2:30 to 3:30 pm Raphaël Forien
