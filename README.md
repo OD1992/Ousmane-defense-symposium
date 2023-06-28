@@ -9,7 +9,7 @@
 ---
 <h1><span style="color:#8db600">Program</span></h1>
 <br>June 29
-<br>------2:30 to 3:30 pm Mouhamadou Diallo
+<br>#------2:30 to 3:30 pm Mouhamadou Diallo
 <br>------3:30 to 4:30 pm Ramsès Djidjou-Demasse
 <br>June 30
 <br>------2:30 to 3:30 pm Raphaël Forien
@@ -18,8 +18,8 @@
 ---
 <h1><span style="color:#8db600">Abstracts</span></h1>
 
-#<span style="color:#008000">Mouhamadou Diallo</span>, professor, Université Cheikh Anta Diop de Dakar, Sénégal
-#<br>Title: Un carrefour des complications du diabète au Sénégal - le pied diabétique
+<span style="color:#008000">#Mouhamadou Diallo</span>, professor, Université Cheikh Anta Diop de Dakar, Sénégal
+<br>#Title: Un carrefour des complications du diabète au Sénégal - le pied diabétique
 
 <span style="color:#008000">Ramsès Djidjou-Demasse</span>, Professor, IRD, France
 <br>Title: Structured models and applications in population dynamics
